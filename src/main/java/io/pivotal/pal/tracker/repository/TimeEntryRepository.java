@@ -9,7 +9,7 @@ public interface TimeEntryRepository {
 
     public TimeEntry find(long id);
 
-    public List<TimeEntry> list();
+    public List list();
 
     public TimeEntry update(long id, TimeEntry timeEntry);
 
