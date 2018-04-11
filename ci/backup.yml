@@ -1,0 +1,16 @@
+aws-access-key-id:
+aws-secret-access-key:
+aws-bucket:
+cf-api-url:
+cf-username:
+cf-password:
+cf-org:
+mysql-ip:
+review-database-name:
+review-database-username:
+review-database-password:
+production-database-name:
+production-database-username:
+production-database-password:
+github-repository:
+github-private-key: |
